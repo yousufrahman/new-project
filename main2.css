@@ -1,0 +1,16 @@
+body{
+background-color: lightseagreen;
+}
+h1{ 
+    font-size: 60px;
+    font-family: Courier;
+    color: lightsalmon;
+}
+h3{
+    font-style: normal;
+    font-size: 40px;
+}
+p{
+    font-size: 50px;
+    font-family: 'Courier New';
+}

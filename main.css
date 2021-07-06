@@ -1,0 +1,19 @@
+body{
+    background-color: lightgreen;
+}
+h1{
+    font-color: white;
+    font-size: 40px;
+}
+h2{
+    font-color: rgb(6, 236, 95)
+    font-size: 37px;
+}
+h3{
+    font-size: medium;
+    font-variant-caps: all-petite-caps;
+}
+P{
+    font-family: 'Courier New' ;
+    font-color: rgb(27, 5, 5);
+}
